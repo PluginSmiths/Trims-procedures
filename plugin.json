@@ -3,10 +3,14 @@
   "weight": 30,
   "minversion": 0,
   "supportedversions": [
+    202400115713,
     2024001,
-    2024002
-  ]
-,
+    2023004,
+    2024002,
+    202400115821,
+    202300499999,
+    202300400000
+  ],
   "info": {
     "name": "Trims procedures",
     "version": "0.1",
