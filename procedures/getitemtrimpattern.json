@@ -1,0 +1,30 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "pattern",
+      "datalist": "trim_patterns",
+      "customEntryProviders": "trim_pattern"
+    },
+    {
+      "type": "input_value",
+      "name": "trim",
+      "check": "ArmorTrim"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "#607c99",
+  "mcreator": {
+    "toolbox_id": "itemdata",
+    "toolbox_init": [
+      "<value name=\"trim\"><block type=\"variables_get_armortrim\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>"
+    ],
+    "inputs": [
+      "trim"
+    ],
+    "fields": [
+      "pattern"
+    ]
+  }
+}

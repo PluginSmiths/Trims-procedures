@@ -1,0 +1,27 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "itemstack",
+      "check": "MCItem"
+    }
+  ],
+  "inputsInline": true,
+  "output": "ArmorTrim",
+  "colour": "#9b646e",
+  "mcreator": {
+    "toolbox_id": "itemdata",
+    "toolbox_init": [
+      "<value name=\"itemstack\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>"
+    ],
+    "inputs": [
+      "itemstack"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}

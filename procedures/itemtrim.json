@@ -1,0 +1,42 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item",
+      "check": "MCItem"
+    },
+    {
+      "type": "field_dropdown",
+      "name": "name",
+      "options": [
+        [
+          "trim_materials",
+          "trim_materials"
+        ],
+        [
+          "trim_templates",
+          "trim_templates"
+        ],
+        [
+          "trimmable_armor",
+          "trimmable_armor"
+        ]
+      ]
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "#607c99",
+  "mcreator": {
+    "toolbox_id": "itemdata",
+    "toolbox_init": [
+      "<value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>"
+    ],
+    "inputs": [
+      "item"
+    ],
+    "fields": [
+      "name"
+    ]
+  }
+}
