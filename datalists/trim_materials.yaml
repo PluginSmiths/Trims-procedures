@@ -1,10 +1,20 @@
-- TrimMaterials.AMETHYST
-- TrimMaterials.COPPER
-- TrimMaterials.DIAMOND
-- TrimMaterials.EMERALD
-- TrimMaterials.GOLD
-- TrimMaterials.IRON
-- TrimMaterials.LAPIS
-- TrimMaterials.NETHERITE
-- TrimMaterials.QUARTZ
-- TrimMaterials.REDSTONE
+- TrimMaterials.AMETHYST:
+  readable_name: "Amethyst"
+- TrimMaterials.COPPER:
+  readable_name: "Copper"
+- TrimMaterials.DIAMOND:
+  readable_name: "Diamond"
+- TrimMaterials.EMERALD:
+  readable_name: "Emerald"
+- TrimMaterials.GOLD:
+  readable_name: "Gold"
+- TrimMaterials.IRON:
+  readable_name: "Iron"
+- TrimMaterials.LAPIS:
+  readable_name: "Lapis"
+- TrimMaterials.NETHERITE:
+  readable_name: "Netherite"
+- TrimMaterials.QUARTZ:
+  readable_name: "Quartz"
+- TrimMaterials.REDSTONE:
+  readable_name: "Redstone"

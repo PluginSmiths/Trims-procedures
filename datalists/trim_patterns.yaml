@@ -1,16 +1,32 @@
-- TrimPatterns.COAST
-- TrimPatterns.DUNE
-- TrimPatterns.EYE
-- TrimPatterns.HOST
-- TrimPatterns.RAISER
-- TrimPatterns.RIB
-- TrimPatterns.SENTRY
-- TrimPatterns.SHAPER
-- TrimPatterns.SILENCE
-- TrimPatterns.SHOUNT
-- TrimPatterns.SPIRE
-- TrimPatterns.TIDE
-- TrimPatterns.VEX
-- TrimPatterns.WARD
-- TrimPatterns.WAYFINDER
-- TrimPatterns.WILD
+- TrimPatterns.COAST:
+  readable_name: "Coast"
+- TrimPatterns.DUNE:
+  readable_name: "Dune"
+- TrimPatterns.EYE:
+  readable_name: "Eye"
+- TrimPatterns.HOST:
+  readable_name: "Host"
+- TrimPatterns.RAISER:
+  readable_name: "Raiser"
+- TrimPatterns.RIB:
+  readable_name: "Rib"
+- TrimPatterns.SENTRY:
+  readable_name: "Sentry"
+- TrimPatterns.SHAPER:
+  readable_name: "Shaper"
+- TrimPatterns.SILENCE:
+  readable_name: "Silence"
+- TrimPatterns.SHOUNT:
+  readable_name: "Shout"
+- TrimPatterns.SPIRE:
+  readable_name: "Spire"
+- TrimPatterns.TIDE:
+  readable_name: "Tide"
+- TrimPatterns.VEX:
+  readable_name: "Vex"
+- TrimPatterns.WARD:
+  readable_name: "Ward"
+- TrimPatterns.WAYFINDER:
+  readable_name: "Wayfinder"
+- TrimPatterns.WILD:
+  readable_name: "Wild"
