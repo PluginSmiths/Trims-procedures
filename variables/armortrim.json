@@ -1,4 +1,5 @@
 {
   "color": "#9b646e",
-  "blocklyVariableType": "ArmorTrim"
+  "blocklyVariableType": "ArmorTrim",
+  "nullable": true
 }
