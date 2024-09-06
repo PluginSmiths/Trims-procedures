@@ -10,7 +10,7 @@
   "output": "ArmorTrim",
   "colour": "#9b646e",
   "mcreator": {
-    "toolbox_id": "itemdata",
+    "toolbox_id": "trims",
     "toolbox_init": [
       "<value name=\"itemstack\"><block type=\"itemstack_to_mcitem\"></block></value>"
     ],
