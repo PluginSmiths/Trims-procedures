@@ -8,7 +8,7 @@
   ],
   "inputsInline": true,
   "output": "ArmorTrim",
-  "colour": "#5fdfdf",
+  "colour": "#50a0a0",
   "mcreator": {
     "toolbox_id": "trims",
     "toolbox_init": [
