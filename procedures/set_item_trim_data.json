@@ -19,7 +19,7 @@
     "toolbox_id": "itemmanagement",
     "toolbox_init": [
       "<value name=\"trim\"><block type=\"variables_get_armortrim\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>",
-      "<value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>"
+      "<value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value>"
     ],
     "inputs": [
       "trim",
