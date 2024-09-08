@@ -9,7 +9,7 @@
       "type": "field_data_list_selector",
       "name": "material",
       "datalist": "trim_materials",
-      "customEntryProviders": "trim_material"
+      "customEntryProviders": "trimmaterial"
     }
   ],
   "inputsInline": true,

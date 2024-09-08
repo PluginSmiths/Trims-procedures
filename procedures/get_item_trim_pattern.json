@@ -4,7 +4,7 @@
       "type": "field_data_list_selector",
       "name": "pattern",
       "datalist": "trim_patterns",
-      "customEntryProviders": "trim_pattern"
+      "customEntryProviders": "armortrim"
     },
     {
       "type": "input_value",
