@@ -1,32 +1,48 @@
 - TrimPatterns.COAST:
   readable_name: "Coast"
+  texture: COAST
 - TrimPatterns.DUNE:
   readable_name: "Dune"
+  texture: DUNE
 - TrimPatterns.EYE:
   readable_name: "Eye"
+  texture: EYE
 - TrimPatterns.HOST:
   readable_name: "Host"
+  texture: HOST
 - TrimPatterns.RAISER:
   readable_name: "Raiser"
+  texture: RAISER
 - TrimPatterns.RIB:
   readable_name: "Rib"
+  texture: RIB
 - TrimPatterns.SENTRY:
   readable_name: "Sentry"
+  texture: SENTRY
 - TrimPatterns.SHAPER:
   readable_name: "Shaper"
+  texture: SHAPER
 - TrimPatterns.SILENCE:
   readable_name: "Silence"
+  texture: SILENCE
 - TrimPatterns.SHOUNT:
   readable_name: "Shout"
+  texture: SHOUNT
 - TrimPatterns.SPIRE:
   readable_name: "Spire"
+  texture: SPIRE
 - TrimPatterns.TIDE:
   readable_name: "Tide"
+  texture: TIDE
 - TrimPatterns.VEX:
   readable_name: "Vex"
+  texture: VEX
 - TrimPatterns.WARD:
   readable_name: "Ward"
+  texture: WARD
 - TrimPatterns.WAYFINDER:
   readable_name: "Wayfinder"
+  texture: WAYFINDER
 - TrimPatterns.WILD:
   readable_name: "Wild"
+  texture: WILD
