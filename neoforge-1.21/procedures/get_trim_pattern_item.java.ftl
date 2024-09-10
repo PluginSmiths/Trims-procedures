@@ -1,0 +1,1 @@
+world instanceof Level _level && ${input$trim}.pattern()==TrimPatterns.getFromTemplate(_level.registryAccess(), new ItemStack(${input$item})).orElse(null)
