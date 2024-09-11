@@ -1,30 +1,30 @@
 - TrimMaterials.AMETHYST:
   readable_name: "Amethyst"
-  texture: 13209587
+  texture: AMETHYST_MATERIAL
 - TrimMaterials.COPPER:
   readable_name: "Copper"
-  texture: 14910060
+  texture: COPPER_MATERIAL
 - TrimMaterials.DIAMOND:
   readable_name: "Diamond"
-  texture: 13369333
+  texture: DIAMOND_MATERIAL
 - TrimMaterials.EMERALD:
   readable_name: "Emerald"
-  texture: 8582829
+  texture: EMERALD_MATERIAL
 - TrimMaterials.GOLD:
   readable_name: "Gold"
-  texture: 16776592
+  texture: GOLD_MATERIAL
 - TrimMaterials.IRON:
   readable_name: "Iron"
-  texture: 12964564
+  texture: IRON_MATERIAL
 - TrimMaterials.LAPIS:
   readable_name: "Lapis"
-  texture: 4288151
+  texture: LAPIS_MATERIAL
 - TrimMaterials.NETHERITE:
   readable_name: "Netherite"
-  texture: 5920602
+  texture: NETHERITE_MATERIAL
 - TrimMaterials.QUARTZ:
   readable_name: "Quartz"
-  texture: 15921133
+  texture: QUARTZ_MATERIAL
 - TrimMaterials.REDSTONE:
   readable_name: "Redstone"
-  texture: 15081480
+  texture: REDSTONE_MATERIAL
