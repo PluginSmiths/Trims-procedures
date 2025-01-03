@@ -1,1 +1,0 @@
-${input$trim}.material()==${field$material?replace("CUSTOM:", "")}

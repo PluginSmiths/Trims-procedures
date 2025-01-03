@@ -1,1 +1,0 @@
-!${input$trim}.${field$name}()==null

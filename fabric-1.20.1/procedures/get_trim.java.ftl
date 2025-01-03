@@ -1,1 +1,0 @@
-(world instanceof Level _level ? ArmorTrim.getTrim(_level.registryAccess(), ${input$itemstack}).orElse(null) : null)

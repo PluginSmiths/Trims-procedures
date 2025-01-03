@@ -1,1 +1,0 @@
-${input$trim}.pattern()==${field$pattern?replace("CUSTOM:", "")}
