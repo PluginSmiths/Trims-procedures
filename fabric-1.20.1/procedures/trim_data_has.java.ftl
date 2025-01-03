@@ -1,1 +1,1 @@
-!${input$trim}.${field$name}()==null
+${input$trim}.${field$name}()!=null
